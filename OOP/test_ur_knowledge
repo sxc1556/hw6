@@ -1,0 +1,28 @@
+1. **Public, Private, Protected, Internal, Protected Internal, Private Protected**
+2. **Static**: Belongs to the type itself rather than an instance.  
+   **Const**: Immutable value known at compile time, must be initialized at declaration.  
+   **Readonly**: Immutable value that can be assigned in the declaration or constructor.
+3. **Initializes** an object of a class.
+4. **Allows splitting a class, struct, or interface into multiple files**.
+5. **A data structure that can hold a fixed number of items of different types**.
+6. **Provides a concise way to define immutable reference types with value-based equality**.
+7. **Overloading**: Multiple methods with the same name but different parameters.  
+   **Overriding**: Providing a new implementation for a method in a derived class.
+8. **Field**: Variable directly accessible.  
+   **Property**: Provides controlled access to a class's data.
+9. **Use default parameters or method overloads**.
+10. **Interface**: Contract for classes without implementation.  
+    **Abstract Class**: Can have implementations and require derived classes to implement abstract members.
+11. **Public**.
+12. **True**.
+13. **True**.
+14. **False**.
+15. **False**.
+16. **True**.
+17. **True**.
+18. **True**.
+19. **False**.
+20. **False**.
+21. **True**.
+22. **False**.
+23. **True**.

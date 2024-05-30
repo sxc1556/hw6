@@ -1,0 +1,15 @@
+/Users/siyuan/Downloads/antragit/hw6/OOP/bin/Debug/net7.0/OOP
+/Users/siyuan/Downloads/antragit/hw6/OOP/bin/Debug/net7.0/OOP.deps.json
+/Users/siyuan/Downloads/antragit/hw6/OOP/bin/Debug/net7.0/OOP.runtimeconfig.json
+/Users/siyuan/Downloads/antragit/hw6/OOP/bin/Debug/net7.0/OOP.dll
+/Users/siyuan/Downloads/antragit/hw6/OOP/bin/Debug/net7.0/OOP.pdb
+/Users/siyuan/Downloads/antragit/hw6/OOP/obj/Debug/net7.0/OOP.csproj.AssemblyReference.cache
+/Users/siyuan/Downloads/antragit/hw6/OOP/obj/Debug/net7.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siyuan/Downloads/antragit/hw6/OOP/obj/Debug/net7.0/OOP.AssemblyInfoInputs.cache
+/Users/siyuan/Downloads/antragit/hw6/OOP/obj/Debug/net7.0/OOP.AssemblyInfo.cs
+/Users/siyuan/Downloads/antragit/hw6/OOP/obj/Debug/net7.0/OOP.csproj.CoreCompileInputs.cache
+/Users/siyuan/Downloads/antragit/hw6/OOP/obj/Debug/net7.0/OOP.dll
+/Users/siyuan/Downloads/antragit/hw6/OOP/obj/Debug/net7.0/refint/OOP.dll
+/Users/siyuan/Downloads/antragit/hw6/OOP/obj/Debug/net7.0/OOP.pdb
+/Users/siyuan/Downloads/antragit/hw6/OOP/obj/Debug/net7.0/OOP.genruntimeconfig.cache
+/Users/siyuan/Downloads/antragit/hw6/OOP/obj/Debug/net7.0/ref/OOP.dll
